@@ -1,2 +1,3 @@
-# template-repo
-Template repository with standard files and settings
+# enum-ng
+
+A network enumeration tool.
